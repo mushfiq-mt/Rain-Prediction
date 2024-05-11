@@ -27,10 +27,16 @@ The original source of the data is Australian Government's Bureau of Meteorology
 The dataset to be used has extra columns like 'RainToday' and our target is 'RainTomorrow', which was gathered from the Rattle at https://bitbucket.org/kayontoga/rattle/src/master/data/weatherAUS.RData
 
 # 3.Importing the required libraries
+Such as pandas, numpy, sklearn
 # 4.Importing the Dataset
 # 5.Data Preprocessing
 # 6. Training and Testing
 # 7.Implementation of algorithms
+Linear Regression
+KNN
+Decision Trees
+Logistic Regression
+SVM
 # 8.Comparing their accuracy scores
 # 9.Report
 
